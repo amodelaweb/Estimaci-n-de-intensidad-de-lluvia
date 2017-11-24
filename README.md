@@ -5,7 +5,7 @@
 Este proyecto consiste en la estimacion de la intensidad
 de la lluvia basados en la reflectividad y la relacion Marshall-Palmer
 
-*CONSIDERACIONES : #
+##CONSIDERACIONES : ##
 
 - Este es el primer paso para realizar un proyecto aun mas grande, ya que
    debido a la complejidad y el tiempo este proyecto es algo que se ira
