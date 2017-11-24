@@ -1,6 +1,6 @@
-# ESTIMACION DE LA INTENSIDAD DE LLUVIA
-# POR : SANTIAGO CHAUSTRE , NICOLAS MENDEZ,
-#       CARLOS BARON Y ANDRES COCUNUBO
+## ESTIMACION DE LA INTENSIDAD DE LLUVIA##
+## POR : SANTIAGO CHAUSTRE , NICOLAS MENDEZ,##
+##       CARLOS BARON Y ANDRES COCUNUBO ##
 
 Este proyecto consiste en la estimacion de la intensidad
 de la lluvia basados en la reflectividad y la relacion Marshall-Palmer
