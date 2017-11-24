@@ -5,7 +5,7 @@
 Este proyecto consiste en la estimacion de la intensidad
 de la lluvia basados en la reflectividad y la relacion Marshall-Palmer
 
-#CONSIDERACIONES :
+##CONSIDERACIONES : ##
 
 *) Este es el primer paso para realizar un proyecto aun mas grande, ya que
    debido a la complejidad y el tiempo este proyecto es algo que se ira
@@ -14,7 +14,7 @@ de la lluvia basados en la reflectividad y la relacion Marshall-Palmer
    con la finalidad de ser presentado en alguna revista cientifica en el
    momento que cumpla con todos los objetivos propuestos
    
-#ANEXOS :
+##ANEXOS :##
 
 Se describira el contenido de los anexos del proyecto, en esta carpeta se 
 encontraran los siguientes archivos : 
@@ -27,7 +27,7 @@ encontraran los siguientes archivos :
   el mapa con el tamaño del radio que abarca el radar.
 -)ANEXO_4.png : Esta imagen es un intento de interpolacion gausseana de la reflectividad
   
-#CODIGOS :
+##CODIGOS :##
 
 En la carpeta de codigos, se encontraran los siguientes archivos :
 
